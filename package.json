@@ -1,0 +1,22 @@
+{
+  "name": "rpc-rmq-node",
+  "version": "1.0.0",
+  "description": "Rpc + Rabbit mq with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricRootLee/RPC-RMQ-Node.git"
+  },
+  "keywords": [
+    "rPC-RMQ-node"
+  ],
+  "author": "Eric Muli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricRootLee/RPC-RMQ-Node/issues"
+  },
+  "homepage": "https://github.com/EricRootLee/RPC-RMQ-Node#readme"
+}
